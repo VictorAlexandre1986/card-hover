@@ -8,6 +8,6 @@ Card com informações sobre usuário.
   <li>CSS3</li>
 <ul>
   
- ## Visualização
+## Visualização
 
-  <img src="Video_1653493754.gif">
+<img src="Video_1653493754.gif">
