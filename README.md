@@ -9,3 +9,5 @@ Card com informações sobre usuário.
 <ul>
   
  ## Visualização
+
+  <img src="Video_1653493754.gif">
